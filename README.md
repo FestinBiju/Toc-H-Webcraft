@@ -6,7 +6,7 @@
 
 1.Deva Nanda Nair(https://github.com/devananda6200)
 
-2.Festin Biju(https://github.com/FestinBiju)
+2.Festin (https://github.com/FestinBiju)
 
 ## Link To Site
   https://festinbiju.github.io/Toc-H-Webcraft/
